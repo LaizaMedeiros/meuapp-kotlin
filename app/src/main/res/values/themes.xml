@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MeuApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorControlNormal">#534AB7</item>
+    </style>
+    <style name="DrawerItemText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+
+</resources>
